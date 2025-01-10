@@ -32,6 +32,7 @@ RUN apk add --no-cache \
     dpkg \
     dumb-init \
     iptables \
+    iptables-legacy \
     nodejs \
     npm
 
